@@ -1,0 +1,24 @@
+# Dependencias
+node_modules/
+
+# Compilado
+dist/
+
+# Variables de entorno (NUNCA subir credenciales)
+.env
+.env.local
+.env.*.local
+
+# IDE
+.vscode/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Cobertura
+coverage/
